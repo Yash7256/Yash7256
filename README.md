@@ -1,68 +1,99 @@
-<div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-</div>  
- <br/>
+<h1 align="center">Hi 👋, I'm Yash (Aman Raj)</h1>
+<h3 align="center">GEN AI | DevOps | Cybersecurity | Open Source Contributor</h3>
 
-# <div align="center">I'm Aman Raj a full-stack developer 👨‍💻 🚀</div>  
-  <br/>
+<p align="center">
+  <a href="https://github.com/Yash7256">
+    <img src="https://komarev.com/ghpvc/?username=Yash7256&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-- 🔭 Building CyberSec
-  
- 
-  
+---
 
-- ⚡ Fun fact: I love eating food than cooking 😋  
-  
+## 🚀 About Me
 
-<br/>  
+🎓 **B.Tech in Artificial Intelligence & Robotics**  
+📍 Gyan Ganga Institute of Technology & Sciences, Jabalpur  
+🌱 Open Source Contributor @ **GSSoC’25** & **Open Source Connect India**  
+🔐 Interested in **Cybersecurity, Gen AI, DevOps & Cloud**  
+💡 Building futuristic systems — from **facial recognition** to **AR-powered web apps**
 
+---
 
+## 🛠️ Tech Stack & Skills
 
-## My Skill Set 👩‍💻
+### 💻 Core Skills
+- **Gen AI**
+- **Cybersecurity**
+- **Computer Networking**
+- **Open Source Development**
+- **DevOps & Cloud**
 
-<table><tr><td valign="top" width="33%">
+### ☁️ Platforms & Tools
+- AWS ☁️
+- Oracle Cloud (OCI – Certified)
+- Linux 🐧
+- Git & GitHub
+- Networking & Security Tools
 
+---
 
+## 📜 Certifications
 
-### Frontend  
-   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
+- 🏅 Oracle Cloud Infrastructure 2025 – Developer Professional  
+- 🛡️ Junior Cybersecurity Analyst  
+- ☁️ AWS Cloud Computing  
+- 🖥️ Operating System Basics  
+- 🔐 Ethical Hacker  
 
-</td><td valign="top" width="33%">
+---
 
+## 🏆 Achievements
 
+- 🥇 **IARC – IIT Kanpur**
+- 🌍 Contributor at **GirlScript Summer of Code (GSSoC’25)**  
+- 🌱 Open Source Contributor – **Open Source Connect India**
 
-### Backend
-   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 💼 Experience
 
+**🔹 Deloitte**  
+Cyber Security Job Simulation *(Oct 2025)*  
 
+**🔹 Cisco**  
+Cybersecurity Intern *(May 2024 – July 2024)*  
 
-### DevOps  
-   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-</td></tr></table>  
-<br/>  
-<br/>
-<div align="center">
-<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
-</div>  
-<br/>  
-<br/>
-# Yash7256
+**🔹 GirlScript Summer of Code**  
+Open Source Contributor *(Jul 2025 – Sep 2025)*  
+
+**🔹 Open Source Connect India**  
+Contributor *(Jul 2025 – Sep 2025)*  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-raj-8571aa291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yash7256" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-alpha-six-23.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash7256&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash7256&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+⭐ **“Building secure, intelligent, and impactful systems for the future.”**
