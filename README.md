@@ -6,6 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=Yash7256&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
+<p align="center">
+  <img src="avatar/1.gif" alt="Profile Animation" width="220"/>
+</p>
 
 ---
 
