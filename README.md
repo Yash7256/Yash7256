@@ -18,7 +18,7 @@
 📍 Gyan Ganga Institute of Technology & Sciences, Jabalpur  
 🌱 Open Source Contributor @ **GSSoC’25** & **Open Source Connect India**  
 🔐 Interested in **Cybersecurity, Gen AI, DevOps & Cloud**  
-💡 Building futuristic systems — from **facial recognition** to **AR-powered web apps**
+
 
 ---
 
