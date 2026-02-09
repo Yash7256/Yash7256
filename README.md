@@ -83,7 +83,7 @@ Contributor *(Jul 2025 – Sep 2025)*
   <a href="https://github.com/Yash7256" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-alpha-six-23.vercel.app/" target="_blank">
+  <a href="https://amanraj06.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?logo=vercel&logoColor=white" />
   </a>
 </p>
