@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash (Aman Raj)</h1>
+<h1 align="center">Hi 👋, I'm Aman (Yash) </h1>
 <h3 align="center">GEN AI | DevOps | Cybersecurity | Open Source Contributor</h3>
 
 <p align="center">
