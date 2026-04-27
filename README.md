@@ -1,102 +1,56 @@
-<h1 align="center">Hi 👋, I'm Aman (Yash) </h1>
-<h3 align="center">GEN AI | DevOps | Cybersecurity | Open Source Contributor</h3>
+# Hey, I'm Yash — AI Security Engineer
 
-<p align="center">
-  <a href="https://github.com/Yash7256">
-    <img src="https://komarev.com/ghpvc/?username=Yash7256&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-<p align="center">
-  <img src="avatar/1.gif" alt="Profile Animation" width="220"/>
-</p>
+I build systems that make infrastructure defensible using AI.  
+Pre-final year B.Tech in AI & Robotics at GGITS, Jabalpur — graduating 2027.
 
 ---
 
-## 🚀 About Me
+### What I'm working on
 
-🎓 **B.Tech in Artificial Intelligence & Robotics**  
-📍 Gyan Ganga Institute of Technology & Sciences, Jabalpur  
-🌱 Open Source Contributor @ **GSSoC’25** & **Open Source Connect India**  
-🔐 Interested in **Cybersecurity, Gen AI, DevOps & Cloud**  
+**[CyberSec-CLI](https://github.com/Yash7256/CyberSec-CLI)** — Production-grade AI security scanner  
+Concurrent port scanning · Groq LLM threat analysis · RAG-based CVE correlation · PostgreSQL audit logs · PDF report generation · Full security hardening (SSRF guards, JWT auth, atomic Redis ops via Lua, Celery async queuing)
 
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Core Skills
-- **Gen AI**
-- **Cybersecurity**
-- **Computer Networking**
-- **Open Source Development**
-- **DevOps & Cloud**
-
-### ☁️ Platforms & Tools
-- AWS ☁️
-- Oracle Cloud (OCI – Certified)
-- Linux 🐧
-- Git & GitHub
-- Networking & Security Tools
+**[CaseForge](https://github.com/Yash7256/CaseForge)** — AI case study generator  
+Two-phase interview system · Llama 4 Scout vision · Groq web search market research · WeasyPrint PDF export
 
 ---
 
-## 📜 Certifications
+### Stack
 
-- 🏅 Oracle Cloud Infrastructure 2025 – Developer Professional  
-- 🛡️ Junior Cybersecurity Analyst  
-- ☁️ AWS Cloud Computing  
-- 🖥️ Operating System Basics  
-- 🔐 Ethical Hacker  
-
----
-
-## 🏆 Achievements
-
-- 🥇 **IARC – IIT Kanpur**
-- 🌍 Contributor at **GirlScript Summer of Code (GSSoC’25)**  
-- 🌱 Open Source Contributor – **Open Source Connect India**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 💼 Experience
+### Certifications
 
-**🔹 Deloitte**  
-Cyber Security Job Simulation *(Oct 2025)*  
-
-**🔹 Cisco**  
-Cybersecurity Intern *(May 2024 – July 2024)*  
-
-**🔹 GirlScript Summer of Code**  
-Open Source Contributor *(Jul 2025 – Sep 2025)*  
-
-**🔹 Open Source Connect India**  
-Contributor *(Jul 2025 – Sep 2025)*  
+| Cert | Issuer | Year |
+|---|---|---|
+| OCI Generative AI Professional | Oracle | 2025 |
+| OCI DevOps Professional | Oracle | 2025 |
+| OCI Developer Professional | Oracle | 2025 |
+| Ethical Hacker | Cisco | 2024 |
+| Junior Cybersecurity Analyst | Cisco | 2024 |
+| CCNA | Cisco | 2024 |
+| AWS Cloud Computing Foundations | AWS | 2024 |
 
 ---
 
-## 🌐 Connect With Me
+### GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aman-raj-8571aa291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Yash7256" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
-  </a>
-  <a href="https://amanraj06.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?logo=vercel&logoColor=white" />
-  </a>
-</p>
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash7256&show_icons=true&hide_border=true&theme=default)
 
 ---
 
-## 📊 GitHub Stats
+### Open to
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash7256&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash7256&theme=tokyonight" height="160"/>
-</p>
-
----
-
-⭐ **“Building secure, intelligent, and impactful systems for the future.”**
+Internships and research roles in **AI security**, **DevSecOps**, or **applied LLM security**.  
+If you're building something at that intersection — [let's connect](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
