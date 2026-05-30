@@ -2,11 +2,11 @@
 
 <br/>
 
-# Hey, I'm Aman Raj 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=500&lines=Backend+%26+AI+Security+Engineer;Building+things+that+don%27t+break+at+3am;FastAPI+%7C+LangChain+%7C+Docker+%7C+RAG;Open+to+internships+%26+remote+work)](https://git.io/typing-svg)
 
-### I build backend systems that don't break at 3am.
+# Hey, I'm Aman Raj 👋
 
-B.Tech AI & Robotics '27 · Currently obsessed with AI security, real-time infrastructure, and making things production-ready, not just demo-ready.
+B.Tech AI & Robotics '27 · I build backend systems and security tooling that are production-ready, not just demo-ready. Currently deep in async network scanning, AI-powered vulnerability analysis, and shipping full products end-to-end.
 
 > Open to backend / AI security internships and remote opportunities.
 
@@ -22,6 +22,7 @@ B.Tech AI & Robotics '27 · Currently obsessed with AI security, real-time infra
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
   <img title="React" src="https://skillicons.dev/icons?i=react" />
   <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
   <img title="Redis" src="https://skillicons.dev/icons?i=redis" />
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
@@ -46,22 +47,33 @@ B.Tech AI & Robotics '27 · Currently obsessed with AI security, real-time infra
 <tr>
 <td width="50%" valign="top">
 
-### CyberSec-CLI
+### CyberSec Toolkit
 
-An AI-powered network security toolkit built for real workloads. Async architecture, live scan streaming over SSE, and CVE-aware detection, all containerized and CI/CD ready.
+A full-stack async network security platform, built end-to-end: Python backend engine, REST API, CLI, and a React marketing site. Not a tutorial project. Has JWT auth, real database migrations, test suites, and a Dockerfile that actually works.
 
-**What it actually does:**
-- TCP / SYN / UDP / FIN / XMAS / Zombie scanning
-- OS fingerprinting and banner grabbing
-- CVE-aware service detection
-- Redis + Celery for async task queues
-- SSE real-time scan streaming to frontend
-- Dockerized with GitHub Actions CI/CD
+**Backend engine (`cybersec-toolkit`):**
+- 8 scan modes: TCP / SYN / UDP / FIN / NULL / XMAS / ACK / Zombie
+- Adaptive AIMD concurrency controller with token bucket rate limiting
+- CVE-aware service detection across 19+ protocols
+- OS fingerprinting (passive + active)
+- TLS certificate analysis
+- AI vulnerability analysis via Groq + SSE streaming
+- DNS, WHOIS, Ping, Traceroute, GeoIP, subdomain enumeration tools
+- JWT auth, audit logging, PDF/CSV/JSON report export
+- Full test suite with `make test`
 
-**Stack:** FastAPI · PostgreSQL · Redis · Celery · Docker · React
+**Frontend landing page (`cybersec-homepage`):**
+- Built with TanStack Start + React 19 + shadcn/ui + Tailwind v4
+- Home, Pricing, Docs, Product pages
+- Deployed to Vercel
 
-<a href="https://github.com/Yash7256/cybersec-new">
-  <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+**Stack:** FastAPI · PostgreSQL · Redis · asyncio · Groq · Click · React 19 · TanStack · Docker
+
+<a href="https://github.com/Yash7256/cybersec-toolkit">
+  <img src="https://img.shields.io/badge/Backend_Engine-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/Yash7256/cybersec-homepage">
+  <img src="https://img.shields.io/badge/Landing_Page-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
@@ -69,9 +81,9 @@ An AI-powered network security toolkit built for real workloads. Async architect
 
 ### Notify-ED
 
-A college notification platform built because email alone wasn't cutting it. Handles marks uploads, WhatsApp + email delivery, and role-based access for faculty and students.
+A college notification platform built because email alone wasn't cutting it. Faculty upload marks via Excel, students get notified on WhatsApp and email instantly. Role-based access for faculty and students with row-level security.
 
-**What it actually does:**
+**What it does:**
 - Excel roster upload and parsing pipelines
 - WhatsApp and email notification delivery
 - Row-level security with RBAC via Supabase
@@ -95,9 +107,9 @@ A college notification platform built because email alone wasn't cutting it. Han
 ## Currently Building
 
 ```text
-AI Security toolkit with LangChain + RAG pipeline for automated threat analysis
-Learning: Advanced Kubernetes, threat modeling, LLM security patterns
-Cert:     OCI Certified (Oracle Cloud Infrastructure)
+CyberSec v2    Adding LangChain + RAG pipeline for automated threat report generation
+Learning       Advanced Kubernetes, threat modeling, LLM security patterns
+Cert           OCI Certified (Oracle Cloud Infrastructure)
 ```
 
 <br/>
@@ -121,11 +133,25 @@ aman = {
 
 ---
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash7256&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+<br/>
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yash7256&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash7256&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7256&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
