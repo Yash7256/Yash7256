@@ -1,10 +1,20 @@
 <img align="center" src="avatar/1.gif" width="1000" />
 
-# Aman Raj
+<br/>
 
-### Backend & Infrastructure Engineer
+# Hey, I'm Aman Raj 
 
-Building scalable backend systems, infrastructure tooling, and security-focused applications.
+### I build backend systems that don't break at 3am.
+
+B.Tech AI & Robotics '27 · Currently obsessed with AI security, real-time infrastructure, and making things production-ready, not just demo-ready.
+
+> Open to backend / AI security internships and remote opportunities.
+
+<br/>
+
+---
+
+## What I Work With
 
 <p align="center">
   <img title="Python" src="https://skillicons.dev/icons?i=python" />
@@ -26,48 +36,49 @@ Building scalable backend systems, infrastructure tooling, and security-focused 
   <img title="Supabase" src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
-##  Featured Projects
+<br/>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  CyberSec-CLI
+### CyberSec-CLI
 
-Production-grade AI-powered cybersecurity and network analysis toolkit built with async architecture and real-time scan streaming.
+An AI-powered network security toolkit built for real workloads. Async architecture, live scan streaming over SSE, and CVE-aware detection, all containerized and CI/CD ready.
 
-#### Highlights
-- TCP/SYN/UDP/FIN/XMAS/Zombie Scanning
-- OS Fingerprinting & Banner Analysis
-- CVE-Aware Service Detection
-- Redis + Celery Task Queues
-- SSE Real-Time Streaming
-- Dockerized CI/CD Deployment
+**What it actually does:**
+- TCP / SYN / UDP / FIN / XMAS / Zombie scanning
+- OS fingerprinting and banner grabbing
+- CVE-aware service detection
+- Redis + Celery for async task queues
+- SSE real-time scan streaming to frontend
+- Dockerized with GitHub Actions CI/CD
 
-#### Stack
-FastAPI • PostgreSQL • Redis • Celery • Docker • React
+**Stack:** FastAPI · PostgreSQL · Redis · Celery · Docker · React
 
 <a href="https://github.com/Yash7256/cybersec-new">
   <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### Notify-ED
 
-###  Notify-ED
+A college notification platform built because email alone wasn't cutting it. Handles marks uploads, WhatsApp + email delivery, and role-based access for faculty and students.
 
-Academic notification platform enabling secure marks management and multi-channel student communication workflows.
+**What it actually does:**
+- Excel roster upload and parsing pipelines
+- WhatsApp and email notification delivery
+- Row-level security with RBAC via Supabase
+- Real-time delivery tracking dashboard
+- Secure PostgreSQL workflows with audit trails
 
-#### Highlights
-- Excel Roster Upload Pipelines
-- WhatsApp & Email Notifications
-- Role-Based Access Control (RLS)
-- Real-Time Notification Tracking
-- Secure PostgreSQL Workflows
-
-#### Stack
-React • Express • Supabase • PostgreSQL • Tailwind
+**Stack:** React · Express · Supabase · PostgreSQL · Tailwind
 
 <a href="https://github.com/Yash7256/Notify-ED">
   <img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
@@ -77,11 +88,43 @@ React • Express • Supabase • PostgreSQL • Tailwind
 </tr>
 </table>
 
-##  GitHub Analytics
+<br/>
+
+---
+
+## Currently Building
+
+```text
+AI Security toolkit with LangChain + RAG pipeline for automated threat analysis
+Learning: Advanced Kubernetes, threat modeling, LLM security patterns
+Cert:     OCI Certified (Oracle Cloud Infrastructure)
+```
+
+<br/>
+
+---
+
+## A Bit More About Me
+
+```python
+aman = {
+    "location":     "Jabalpur, India",
+    "education":    "B.Tech AI & Robotics, Class of 2027",
+    "focus":        ["backend systems", "AI security", "infrastructure tooling"],
+    "currently":    "building things that would survive a traffic spike",
+    "open_to":      ["internships", "remote contracts", "interesting problems"],
+    "reach_me":     "amanrajengg@gmail.com"
+}
+```
+
+<br/>
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yash7256&show_icons=true&theme=github_dark&hide_border=true" />
-  
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash7256&theme=github-dark&hide_border=true" />
 </p>
 
@@ -89,23 +132,30 @@ React • Express • Supabase • PostgreSQL • Tailwind
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash7256&theme=github-dark&hide_border=true&area=true" />
 </p>
 
-##  Connect With Me
+<br/>
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://amanraj.codes">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  
   <a href="https://linkedin.com/in/aman-raj-8571aa291">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:amanrajengg@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://leetcode.com/u/31KObH6UGw/">
     <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  <a href="https://x.com/amanrajengg">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash7256&style=for-the-badge&color=111111&label=PROFILE+VIEWS" />
+</p>
