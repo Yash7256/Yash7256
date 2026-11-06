@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Aman Raj - Anvik Labs" width="100%" />
+<img src="avatar/aman.png" alt="Aman Raj - Anvik Labs" width="100%" />
 
 <br/>
 
