@@ -1,203 +1,340 @@
-<!-- Save this as README.md in a public repo named exactly: Yash7256/Yash7256 -->
-<!-- Put banner.svg in assets/banner.svg (animated, 1584 x 396). Swap for your own banner.png if you prefer -->
+# Aman Raj | Developer
+
+<!--
+GitHub Profile README
+Repository: Yash7256/Yash7256
+
+Assets:
+- avatar/aman.png
+-->
 
 <div align="center">
 
-<img src="avatar/aman.png" alt="Aman Raj - Anvik Labs" width="100%" />
+<img src="avatar/aman.png" width="100%" alt="Aman Raj" />
 
 <br/>
 
-```
-AMAN RAJ
-Developer  |  Founder, Anvik Labs  |  OCI Certified (x3)
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5A0&background=00000000&center=true&vCenter=true&width=640&lines=Full+stack+and+AI+systems;Security+tooling+and+DevOps;Building+products+under+Anvik+Labs" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=35E6A0&background=00000000&center=true&vCenter=true&width=650&lines=Full-stack+development+and+AI+systems;Security+tooling+and+DevOps;Building+products+under+Anvik+Labs" alt="Developer introduction" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![X](https://img.shields.io/badge/X%20%2F%20TWITTER-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
-[![Anvik Labs](https://img.shields.io/badge/ANVIK%20LABS-00E5A0?style=flat-square&logoColor=black&labelColor=111111)](https://YOUR_ANVIK_LABS_SITE)
-[![Email](https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-151B18?style=flat-square&logo=linkedin&logoColor=35E6A0)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-151B18?style=flat-square&logo=instagram&logoColor=35E6A0)](https://instagram.com/YOUR_INSTAGRAM)
+[![X](https://img.shields.io/badge/X-151B18?style=flat-square&logo=x&logoColor=35E6A0)](https://x.com/YOUR_TWITTER)
+[![Anvik Labs](https://img.shields.io/badge/ANVIK_LABS-35E6A0?style=flat-square&logoColor=0D1110)](https://YOUR_ANVIK_LABS_SITE)
+[![Email](https://img.shields.io/badge/EMAIL-151B18?style=flat-square&logo=gmail&logoColor=35E6A0)](mailto:YOUR_EMAIL)
 
 </div>
-
-<br/>
 
 ---
 
-## `00 / ABOUT`
+<div align="center">
 
-I am Aman Raj, a fourth year B.Tech student (batch of 2023 to 2027), graduating June 2027. I build software that solves problems I see around me, starting with problems I have felt myself.
+  <h1>AMAN RAJ</h1>
+  <code>DEVELOPER · BUILDER · PROBLEM SOLVER</code>
 
-I founded **Anvik Labs**, a technology studio with two tracks: our own products, and design and development work for clients. Anvik Labs is built together with Harshita Upadhyay, a UI/UX product designer. I handle development, she designs the interfaces people actually use.
+  <br/><br/>
 
-I learned web development and DevOps through Harkirat Singh's 100xDevs Cohort 3.0 and hold three Oracle Cloud Infrastructure professional certifications.
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-35E6A0?style=flat-square&labelColor=151B18" />
 
-<br/>
+</div>
 
-## `01 / ANVIK LABS`
+## `00 / SYSTEM PROFILE`
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### About me
+
+I'm Aman Raj, a developer and fourth-year B.Tech student graduating in June 2027.
+
+I build software that solves problems I see around me, starting with problems I've experienced myself.
+
+My interests lie in full-stack development, DevOps, security tooling and AI-powered systems. I enjoy taking ideas from concept to working products.
+
+I founded **Anvik Labs**, a technology studio focused on building our own products and delivering design and development work for clients.
+
+</td>
+<td width="42%" valign="top">
+
+### System information
+
+```ini
+NAME       = Aman Raj
+ROLE       = Developer
+LOCATION   = India
+EDUCATION  = B.Tech
+GRADUATION = June 2027
+
+FOCUS      = Full-stack
+             Development
+             DevOps
+             Security
+             AI Systems
+
+STATUS     = Building
+STUDIO     = Anvik Labs
 ```
-STUDIO      Anvik Labs
-TYPE        Technology studio
-TAGLINE     Curious by Design. Precise by Engineering.
-TRACKS      01  Own products
-            02  Client work: UI/UX design, web development, AI and chatbots
-FOUNDERS    Aman Raj (development)  |  Harshita Upadhyay (UI/UX design)
+
+</td>
+</tr>
+</table>
+
+## `01 / ACTIVE PROCESSES`
+
+Currently building, exploring and working on:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Anvik Labs](https://anviklabs.site)**
+
+<sub>TECHNOLOGY STUDIO · ACTIVE</sub>
+
+Building independent products and working with clients on digital experiences.
+
+`PRODUCTS` `DEVELOPMENT` `DESIGN`
+
+</td>
+<td width="50%" valign="top">
+
+**CyberSec Toolkit**
+
+<sub>SECURITY INTELLIGENCE · ACTIVE</sub>
+
+Developing network security tooling with scanning, vulnerability detection and AI-powered analysis.
+
+`SECURITY` `NETWORKS` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Designers Room**
+
+<sub>ANVIK LABS PRODUCT · UPCOMING</sub>
+
+First product from Anvik Labs, scheduled for launch on 8 November 2026.
+
+</td>
+<td width="50%" valign="top">
+
+**Notify-ED**
+
+<sub>ACADEMIC SOFTWARE · LIVE</sub>
+
+A marks publishing and student notification platform for academic institutions.
+
+</td>
+</tr>
+</table>
+
+## `02 / ANVIK LABS`
+
+```ini
+STUDIO       Anvik Labs
+TYPE         Technology Studio
+TAGLINE      Curious by Design. Precise by Engineering.
+
+TRACK_01     Independent Products
+TRACK_02     Client Work
+             UI/UX Design
+             Web Development
+             AI & Chatbots
+
+FOUNDERS     Aman Raj
+             Harshita Upadhyay
 ```
 
-Anvik Labs takes its name from the Sanskrit *Anviksha*, meaning inquiry. The studio works on one idea: question, explore, understand, build.
+Anvik Labs takes its name from the Sanskrit *Anviksha*, meaning inquiry.
+
+The studio is built around one idea:
+
+**Question. Explore. Understand. Build.**
+
+I handle development alongside Harshita Upadhyay, who leads product design and UI/UX.
+
+### Product registry
 
 | Product | Description | Status |
-| :-- | :-- | :-- |
-| **CyberSec Toolkit** | Web platform for network security scanning with AI explained results | Live on GitHub |
-| **Notify-ED** | Marks publishing and student notification system for faculty | Live |
-| **Designers Room** | First product from Anvik Labs | Launching 8 November 2026 |
+|:--|:--|:--|
+| **CyberSec Toolkit** | Network security scanning and AI-explained results | GitHub |
+| **Notify-ED** | Marks publishing and student notification system | Live |
+| **Designers Room** | First independent Anvik Labs product | Upcoming |
 
-Clients we work with: startups, small businesses and individuals who need a website or app designed, redesigned or built.
+We also work with startups, small businesses and individuals who need digital products designed and developed.
 
-<br/>
+## `03 / PROJECTS`
 
-## `02 / PROJECTS`
+### `PROJECT_001` — CyberSec Toolkit
 
-### CyberSec Toolkit
+<sub>NETWORK SECURITY INTELLIGENCE PLATFORM</sub>
 
-An async network security platform. Point it at a target and it scans ports, fingerprints services, pulls live CVE data, detects technologies, maps MITRE ATT&CK techniques and runs AI analysis, streamed live over SSE.
+An asynchronous network security platform. Point it at a target and it scans ports, fingerprints services, retrieves live CVE data, detects technologies, maps MITRE ATT&CK techniques and runs AI analysis, streamed live over SSE.
 
-- Pure asyncio scanner with no nmap dependency, 8 scan modes (TCP connect, SYN, UDP, FIN, NULL, XMAS, ACK, zombie), adaptive concurrency and a token bucket rate limiter
-- Network tools: DNS, WHOIS, ping, traceroute, SSL/TLS audit, HTTP headers, subdomain enumeration, GeoIP, OS fingerprinting, web app scanner
-- AI layer using Groq with Gemini fallback and a rule based fallback when no keys are present
-- React dashboard, CLI, REST API and Prometheus metrics
-- Security by design: private IP ranges blocked, DNS rebinding protection, JWT on all scan endpoints, rate limited API
+**What it does**
 
-`FastAPI` `PostgreSQL` `Alembic` `Redis` `Docker` `React` `Tailwind` `Python`
+- Pure asyncio scanner with no Nmap dependency.
+- Eight scan modes: TCP Connect, SYN, UDP, FIN, NULL, XMAS, ACK and Zombie.
+- Adaptive concurrency and token bucket rate limiting.
+- DNS, WHOIS, Ping, Traceroute, SSL/TLS audit, HTTP headers, subdomain enumeration, GeoIP, OS fingerprinting and web app scanning.
+- AI analysis using Groq with Gemini fallback and rule-based fallback.
+- React dashboard, CLI, REST API and Prometheus metrics.
+- Private IP restrictions, DNS rebinding protection, JWT authentication and API rate limiting.
 
-[Repository](https://github.com/Yash7256/cybersec-toolkit)
+<sub>TECH STACK</sub>
 
-<br/>
+`FastAPI` `PostgreSQL` `Alembic` `Redis` `Docker` `React` `Tailwind CSS` `Python`
 
-### Notify-ED
+[Repository →](https://github.com/Yash7256/cybersec-toolkit)
 
-A system for faculty and academic admins to publish marks quickly. A professor uploads an Excel roster and enters marks, and students are notified by email, WhatsApp and an in app feed.
+---
 
-- Roster parsing with duplicate safe upserts and validated marks entry
-- Delivery logging with retry for failed notifications
-- Email over SMTP or webhook, WhatsApp through WATI or webhook
-- Row level security on all database tables
+### `PROJECT_002` — Notify-ED
 
-`React 19` `Vite` `TypeScript` `Tailwind` `shadcn/ui` `Express` `Supabase` `Vercel`
+<sub>ACADEMIC MANAGEMENT & NOTIFICATION SYSTEM</sub>
 
-[Live](https://notifyed.vercel.app) | [Repository](https://github.com/Yash7256/Notify-ED)
+A system for faculty and academic administrators to publish marks quickly. A professor uploads an Excel roster and enters marks, while students receive notifications through email, WhatsApp and an in-app feed.
 
-<br/>
+**What it does**
 
-### Designers Room
+- Roster parsing with duplicate-safe upserts and validated marks entry.
+- Delivery logging with retry support for failed notifications.
+- Email through SMTP or webhook.
+- WhatsApp through WATI or webhook.
+- Row-level security across database tables.
 
-First product from Anvik Labs, launching 8 November 2026.
+<sub>TECH STACK</sub>
 
-[Anvik Labs](https://YOUR_ANVIK_LABS_SITE)
+`React 19` `Vite` `TypeScript` `Tailwind CSS` `shadcn/ui` `Express` `Supabase` `Vercel`
 
-<br/>
+[Live Project →](https://notifyed.vercel.app) &nbsp; | &nbsp; [Repository →](https://github.com/Yash7256/Notify-ED)
 
-## `03 / STACK`
+---
 
-```
-LANGUAGES     JavaScript  TypeScript  Python
-FRONTEND      React  Vite  Tailwind CSS  shadcn/ui  Recoil
-BACKEND       Node.js  Express  FastAPI
-DATABASES     PostgreSQL  MongoDB  Redis  Supabase
-DEVOPS        Docker  Git  GitHub  CI/CD  Oracle Cloud Infrastructure
-AI            LLM APIs (Groq, Gemini)  AI assisted analysis pipelines
-SECURITY      Network scanning  CVE and MITRE ATT&CK mapping  JWT auth
-```
+### `PROJECT_003` — Designers Room
 
-<div align="center">
+<sub>ANVIK LABS · FIRST PRODUCT</sub>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-Python-111111?style=flat-square&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-111111?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688)
-![Tailwind](https://img.shields.io/badge/-Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/-Redis-111111?style=flat-square&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/-Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
-![Supabase](https://img.shields.io/badge/-Supabase-111111?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![Vercel](https://img.shields.io/badge/-Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-111111?style=flat-square&logo=oracle&logoColor=F80000)
+First independent product from Anvik Labs.
 
-</div>
 
-<br/>
+[Explore Designers Room →](https://designersroom.anviklabs.site)
 
-## `04 / CERTIFICATIONS`
+## `04 / TECH ENVIRONMENT`
+
+<sub>LANGUAGES</sub>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-151B18?style=flat-square&logo=javascript&logoColor=35E6A0)
+![TypeScript](https://img.shields.io/badge/TypeScript-151B18?style=flat-square&logo=typescript&logoColor=35E6A0)
+![Python](https://img.shields.io/badge/Python-151B18?style=flat-square&logo=python&logoColor=35E6A0)
+
+<sub>FRONTEND</sub>
+
+![React](https://img.shields.io/badge/React-151B18?style=flat-square&logo=react&logoColor=35E6A0)
+![Vite](https://img.shields.io/badge/Vite-151B18?style=flat-square&logo=vite&logoColor=35E6A0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-151B18?style=flat-square&logo=tailwindcss&logoColor=35E6A0)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-151B18?style=flat-square&logo=shadcnui&logoColor=35E6A0)
+![Recoil](https://img.shields.io/badge/Recoil-151B18?style=flat-square&logo=recoil&logoColor=35E6A0)
+
+<sub>BACKEND</sub>
+
+![Node.js](https://img.shields.io/badge/Node.js-151B18?style=flat-square&logo=nodedotjs&logoColor=35E6A0)
+![Express](https://img.shields.io/badge/Express-151B18?style=flat-square&logo=express&logoColor=35E6A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-151B18?style=flat-square&logo=fastapi&logoColor=35E6A0)
+
+<sub>DATABASES & INFRASTRUCTURE</sub>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151B18?style=flat-square&logo=postgresql&logoColor=35E6A0)
+![MongoDB](https://img.shields.io/badge/MongoDB-151B18?style=flat-square&logo=mongodb&logoColor=35E6A0)
+![Redis](https://img.shields.io/badge/Redis-151B18?style=flat-square&logo=redis&logoColor=35E6A0)
+![Supabase](https://img.shields.io/badge/Supabase-151B18?style=flat-square&logo=supabase&logoColor=35E6A0)
+![Docker](https://img.shields.io/badge/Docker-151B18?style=flat-square&logo=docker&logoColor=35E6A0)
+![Vercel](https://img.shields.io/badge/Vercel-151B18?style=flat-square&logo=vercel&logoColor=35E6A0)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-151B18?style=flat-square&logo=oracle&logoColor=35E6A0)
+
+<sub>AI & SECURITY</sub>
+
+![Groq](https://img.shields.io/badge/Groq-151B18?style=flat-square&logoColor=35E6A0)
+![Gemini](https://img.shields.io/badge/Gemini-151B18?style=flat-square&logo=googlegemini&logoColor=35E6A0)
+![Security](https://img.shields.io/badge/Network_Security-151B18?style=flat-square&logoColor=35E6A0)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-151B18?style=flat-square&logoColor=35E6A0)
+
+## `05 / CERTIFICATIONS`
+
+<sub>ORACLE CLOUD INFRASTRUCTURE · PROFESSIONAL</sub>
 
 | Certification | Issuer |
-| :-- | :-- |
-| Oracle Cloud Infrastructure Generative AI Professional | Oracle |
-| Oracle Cloud Infrastructure Developer Professional | Oracle |
-| Oracle Cloud Infrastructure DevOps Professional | Oracle |
+|:--|:--|
+| OCI Generative AI Professional | Oracle |
+| OCI Developer Professional | Oracle |
+| OCI DevOps Professional | Oracle |
 
-<br/>
+## `06 / LEARNING HISTORY`
 
-## `05 / EDUCATION`
+```ini
+EDUCATION
+---------
+DEGREE       B.Tech
+YEAR         2023 - 2027
+CURRENT      Fourth Year
 
+DEVELOPMENT
+-----------
+PROGRAM      100xDevs Cohort 3.0
+MENTOR       Harkirat Singh
+FOCUS        Web Development & DevOps
+
+COVERED
+-------
+HTML, CSS, JavaScript, Async JS, DOM
+Node.js, Express, Middleware, JWT, Zod
+MongoDB, bcrypt, React, React Router
+Context API, Recoil, Custom Hooks
+Tailwind CSS, TypeScript
 ```
-B.TECH        Fourth year, seventh semester, batch of 2023 to 2027
-COHORT        100xDevs Cohort 3.0 by Harkirat Singh (Web Development and DevOps)
-COVERED       HTML, CSS, JavaScript, async JS, DOM, Node.js, Express, middlewares,
-              JWT auth, Zod, MongoDB, bcrypt, React, React Router, Context API,
-              Recoil, custom hooks, Tailwind CSS, TypeScript
-```
 
-<br/>
-
-## `06 / GITHUB STATS`
+## `07 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yash7256&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9&border_radius=0" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7256&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9&border_radius=0" alt="languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Yash7256&show_icons=true&hide_border=true&bg_color=0D1110&title_color=35E6A0&icon_color=35E6A0&text_color=E8EFEA&border_radius=8" alt="GitHub statistics" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash7256&hide_border=true&background=0D1117&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=0" alt="streak" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yash7256&layout=compact&hide_border=true&bg_color=0D1110&title_color=35E6A0&text_color=E8EFEA&border_radius=8" alt="Most used languages" />
+
+
 
 </div>
 
-<br/>
+## `08 / OPEN PROCESSES`
 
-## `07 / OPEN TO`
-
-```
-01  Freelance and client projects: UI/UX design, web apps, AI and chatbot development
-02  Internships and full time roles from 2027
-03  Collaboration on security tooling, developer tools and product engineering
-```
-
-<br/>
-
-## `08 / CONTACT`
-
-```
-LINKEDIN      linkedin.com/in/YOUR_LINKEDIN
-INSTAGRAM     instagram.com/YOUR_INSTAGRAM
-X / TWITTER   x.com/YOUR_TWITTER
-ANVIK LABS    YOUR_ANVIK_LABS_SITE
-EMAIL         YOUR_EMAIL
-GITHUB        github.com/Yash7256
+```ini
+01  Freelance and client projects
+02  Internship opportunities and full-time roles from 2027
+03  Collaboration on security tooling and developer tools
+04  Product engineering and AI-powered applications
 ```
 
-<br/>
+## `09 / ESTABLISH CONNECTION`
 
 <div align="center">
 
-```
-CURIOUS BY DESIGN. PRECISE BY ENGINEERING.
-```
+| CHANNEL | ADDRESS |
+|:--|:--|
+| LINKEDIN | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/yash7256) |
+| INSTAGRAM | [instagram.com/YOUR_INSTAGRAM](https://instagram.com/_yash7256) |
+| X / TWITTER | [x.com/YOUR_TWITTER](https://x.com/yash7256_) |
+| ANVIK LABS | [YOUR_ANVIK_LABS_SITE](https://anviklabs.site) |
+| EMAIL | [YOUR_EMAIL](mailto:amanrajengg@gmail.com) |
+| GITHUB | [github.com/Yash7256](https://github.com/Yash7256) |
+
+<br/>
+
+**CURIOUS BY DESIGN. PRECISE BY ENGINEERING.**
+
+<sub>END OF PROFILE · THANKS FOR STOPPING BY</sub>
 
 </div>
